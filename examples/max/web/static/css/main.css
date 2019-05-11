@@ -1,0 +1,17 @@
+div {
+  text-align: center;
+  margin: auto;
+}
+
+th {
+  color: black;
+}
+
+td {
+  color: #406FA3;
+}
+
+.odd td {
+  color: #406FA3;
+  background-color: #DDEBF7;
+}
