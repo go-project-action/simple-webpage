@@ -1,8 +1,8 @@
 package main
 
 import (
-	"github.com/LIYINGZHEN/gotemplate/configs"
-	"github.com/LIYINGZHEN/gotemplate/internal/app/http"
+	"github.com/go-project-action/simple-webpage/examples/max/configs"
+	"github.com/go-project-action/simple-webpage/examples/max/internal/app/http"
 )
 
 func main() {
