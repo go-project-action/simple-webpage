@@ -1,0 +1,4 @@
+github.com/LIYINGZHEN/gotemplate v0.0.0-20190504075814-7988b08ab000 h1:C/0SzGIikYEiIsh/YM2jEyXq4Maod28KxCDv72U8hEA=
+github.com/LIYINGZHEN/gotemplate v0.0.0-20190504075814-7988b08ab000/go.mod h1:Q/czZA3vINAAZvZiMGPa0NqYWSvqm8aKzYwXNO7/Rt0=
+github.com/gorilla/mux v1.7.2 h1:zoNxOV7WjqXptQOVngLmcSQgXmgk4NMz1HibBchjl/I=
+github.com/gorilla/mux v1.7.2/go.mod h1:1lud6UwP+6orDFRuTfBEV8e9/aOM/c4fVVCaMa2zaAs=

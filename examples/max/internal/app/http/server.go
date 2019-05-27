@@ -5,6 +5,8 @@ import (
 	"log"
 	"net/http"
 	"time"
+
+	"github.com/gorilla/mux"
 )
 
 // AppServer contains the information to run a server.
@@ -12,7 +14,7 @@ type AppServer struct{}
 
 // Run will start the http server.
 func (a *AppServer) Run(port string) {
-	r := http.NewServeMux()
+	r := mux.NewRouter()
 	a.publicRoutes(r)
 
 	srv := &http.Server{
